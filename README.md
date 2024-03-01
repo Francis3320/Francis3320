@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Francis3320
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python django frmaework
-- 💞️ I’m looking to collaborate on anything related to python
+- 👀 I’m interested in python javascrpit
+- 🌱 I’m currently learning react.js and next.js
+- 💞️ I’m looking to collaborate on anything related to python and react
 - 📫 How to reach me darkofrancis18@yahoo.com
 
 <!---
